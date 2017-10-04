@@ -1,1 +1,1 @@
-Modelo de anteprojeto para relato de caso
+# Hepatopatia reversível atribuída a um suplemento alimentar contendo _Aloe vera_ 
