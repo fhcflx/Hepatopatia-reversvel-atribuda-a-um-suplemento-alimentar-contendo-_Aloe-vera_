@@ -2,10 +2,8 @@
 
 ## TÍTULO:
 
-**ESTUDO OBSERVACIONAL DE [NÚMERO] CASO[S] DE [PATOLOGIA]** 
+**Hepatopatia reversível atribuída a um suplemento alimentar contendo _Aloe vera_** 
 
-**SECRETARIA DE SAÚDE DO ESTADO DO CEARÁ**
+**UNIVERSIDADE FEDERAL DO CEARÁ**
 
-**HOSPITAL INFANTIL ALBERT SABIN**
-
-[UNIDADE]
+**FACULDADE DE FARMÁCIA, ODONTOLOGIA E ENFERMAGEM**
