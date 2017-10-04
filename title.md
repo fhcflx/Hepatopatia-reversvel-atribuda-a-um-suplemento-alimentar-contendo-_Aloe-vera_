@@ -1,0 +1,1 @@
+Modelo de anteprojeto para relato de caso
