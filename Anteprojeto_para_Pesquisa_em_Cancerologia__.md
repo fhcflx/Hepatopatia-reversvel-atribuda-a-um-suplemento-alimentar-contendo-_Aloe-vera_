@@ -1,5 +1,5 @@
-# Anteprojeto para Pesquisa em Cancerologia Pediátrica envolvendo Seres Humanos
+# Anteprojeto para Pesquisa em Ciências da Saúde envolvendo Seres Humanos
 
 ## Introdução
 
-[Explicação sucinta da natureza da patologia estudada e porquê é importante relatar casos desta patologia]
+Nos últimos anos, cresceu rapidamente o interesse no desenvolvimento de fármacos a partir de produtos naturais. Além dos clássicos casos de sucesso amplamente reconhecidos, como o ácido acetil salicílico, penicilina, alcalóides da _Vinca_ e taxanos, recentemente, o Nobel de Medicina e Fisiologia de 2015 foi agraciado aos pesquisadores que desenvolveram drogas a partir da _Artemisia annua_ (artemisininas) e do actinomiceto do solo _Streptomyces avermitilis_ (avermectinas). Ao mesmo tempo, o uso de preparações contendo produtos naturais, em especial plantas medicinais, originou um comércio de grandes proporções. Uma série de problemas compromete a segurança do uso destas preparações, integrantes de muitos suplementos alimentares comerciais. Podemos citar como mais importantes: grande variabilidade dos produtos herbais usados como suplemento dietético, qualidade dos produtos herbais (raramente controlada), identificação correta das partes das plantas utilizadas, identificação das espécies de plantas usadas, presença de impurezas e adulterantes, pesquisas sobre a toxicidade das preparações e substâncias purificadas envolvidas. A falta de regulação na produção, manufatura e comercialização de suplementos dietéticos herbais é preocupante.
