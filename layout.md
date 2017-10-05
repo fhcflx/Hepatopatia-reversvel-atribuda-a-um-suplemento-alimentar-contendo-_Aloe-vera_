@@ -3,7 +3,7 @@ APRESENTA_O_GRANDE_REA_DO__.md
 ABREVIA_ES_Abrevia_es_que__.md
 RESUMO_Resumo_do_projeto_curto__.md
 SUMMARY_Summary_of_the_project__.md
-Anteprojeto_para_Pesquisa_em_Cancerologia__.md
+Anteprojeto_para_Pesquisa_em_Ci__.md
 Apresenta_o_do_problema_e__.md
 Justificativa_Baseado_na_introdu_o__.md
 Objetivos_Objetivo_principal_Colher_informa__.md
