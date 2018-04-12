@@ -1,3 +1,4 @@
 ## Apresentação do problema e fundamentação teórica
 
 O relato de caso atual pretende demonstrar uma ocorrência de hepatotoxicidade de um preparado oral de gel de _A. vera_. Um relato de caso já demonstrara, em 2014, a hepatotoxicidade pelo uso de um prerarado oral de gel de _A. vera_, sugerindo que seu uso não é totalmente isento de riscos. \cite{lee} 
+O gel de _A. vera_ é uma substância mucilaginosa transparente contida nas células parenquimatosas da polpa das folhas da planta, extraído mecanicamente. Seus principais constituintes são fibras dietéticas, açúcares solúveis, cinzas e uma fração menor com lipídios, proteínas, enzimas e elementos minerais.
